@@ -62,6 +62,8 @@ It looks like you are setting up a website for a Software Carpentry curriculum b
 {% endunless %}
 {% endif %}
 
+<p><strong>Update on 20 August:</strong> Registration is still open for this workshop, but it may be postponed if in-person teaching is not possible.  An update will be sent next week to everyone who registered. Stay safe and kia kaha!</p>
+
 {% comment %}
 EVENTBRITE
 
@@ -77,7 +79,7 @@ displayed if the 'eventbrite' field in the header is not set.
   src="https://www.eventbrite.com/tickets-external?eid={{page.eventbrite}}&ref=etckt"
   frameborder="0"
   width="100%"
-  height="280px"
+  height="400px"
   scrolling="auto">
 </iframe>
 {% endif %}
