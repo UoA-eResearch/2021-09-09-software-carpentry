@@ -62,7 +62,7 @@ It looks like you are setting up a website for a Software Carpentry curriculum b
 {% endunless %}
 {% endif %}
 
-<div class="alert alert-warning"><strong>Update on 20 August:</strong> Registration is still open for this workshop, but it may be postponed if in-person teaching is not possible.  An update will be sent next week to everyone who registered. Stay safe and kia kaha!</div>
+<div class="alert alert-warning"><strong>Update on 25 August:</strong> This event is postponed until the University is able to open for in-person teaching. An update will be sent out soon regarding when the workshop will be held.</div>
 
 {% comment %}
 EVENTBRITE
